@@ -7,7 +7,7 @@ The reporter finds the bug in url of photo preview.
 what I'd do first is click everything and familiarize the platform. Then i would open an app or my account details while examining weather the id appears in the URL so if then i can try to change it to access someone else's.
 
 ## The Vulnerability Class
-IDOR
+Broken access control
 
 ## My Testing Steps
 1.Create two shopify accounts one for testing another as victim
