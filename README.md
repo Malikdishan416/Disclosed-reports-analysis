@@ -1,2 +1,9 @@
 # Disclosed-reports-analysis
-Notes and lessons extracted from disclosed bug bounty reports, emphasizing methodology, reconnaissance, testing strategies, common mistakes, and vulnerability discovery patterns.
+My personal analysis of public bug bounty reports. 
+How I would have found each bug. What I learned.
+
+| Report |                   Title                               | Vulnerability |
+|--------|-------------------------------------------------------|---------------|
+| 318751 | Access to Private Photos of Apps in App section           (IDOR)
+|        |
+|        | [Title]                                               |   [Type]      |
