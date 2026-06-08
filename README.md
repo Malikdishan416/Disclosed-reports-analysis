@@ -1,6 +1,14 @@
 # Disclosed-reports-analysis
-My personal analysis of public bug bounty reports. 
-How I would have found each bug. What I learned.
+
+**17-year-old bug bounty hunter from Sri Lanka.** No mentor. No bootcamp. 
+Just public reports, PortSwigger labs, and 12-hour days.
+
+This repo is how I learn: I take disclosed reports, reverse-engineer the 
+methodology, and write how *I* would have found each bug. Not summaries. 
+Not copy-paste. My own recon, my own testing steps, my own mistakes.
+
+**Focus areas:** Access Control | Authentication | Business Logic | SSRF  
+**Goal:** $6,000 by April 2027 | Full-time bug bounty hunter
 
 | Report |                   Title                               |     Vulnerability     |
 |--------|-------------------------------------------------------|-----------------------|
