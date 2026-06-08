@@ -3,7 +3,7 @@
 
 ## The Target
 
-The target is Veris. a platform used to manage physical workplaces. Basically a organization/group management platform - essentially a digital front desk and office assistant.
+The target is Veris, a platform used to manage physical workplaces. Basically a organization/group management platform - essentially a digital front desk and office assistant.
 
 ## My Recon Approach
 
@@ -32,7 +32,7 @@ An authenticated attacker could intercept a `Delete-group` request and substitut
 
 ## Why I Would Have Caught It
 
-I test every numeric ID parameter I find of endpoints. When I see `*id=`, `group_id=`* or any number in a request I would immediately try to change it to another value because I learned IDOR vulnerabilities rarely exist in isolation.
+I test every numeric ID parameter I find of endpoints. When I see `id=`, `group_id=` or any number in a request I would immediately try to change it to another value because I learned IDOR vulnerabilities rarely exist in isolation.
 
 ## What I Learned for My Hunting
 
