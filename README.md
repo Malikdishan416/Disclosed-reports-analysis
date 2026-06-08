@@ -15,3 +15,12 @@ Not copy-paste. My own recon, my own testing steps, my own mistakes.
 | 318751 | Access to Private Photos of Apps in App section       |    IDOR               |
 | 120121 | Delete any group of any organization remotely         |   Critical IDOR       |
 | 642886 | Reauthentication for changing password bypass         | Authentication bypass |
+
+## Contact
+
+- **HackerOne:** [malikdishan17](https://hackerone.com/malikdishan17)
+- **X/Twitter:** [@MalikDisha8108](https://x.com/MalikDisha8108)
+- **Location:** Colombo, Sri Lanka
+- **Availability:** 24/7, full-time bug bounty hunter
+
+Open to collaboration, mentorship, and program invitations.
