@@ -10,11 +10,13 @@ Not copy-paste. My own recon, my own testing steps, my own mistakes.
 **Focus areas:** Access Control | Authentication | Business Logic | SSRF  
 **Goal:** $6,000 by April 2027 | Full-time bug bounty hunter
 
-| Report |                   Title                               |     Vulnerability     |
-|--------|-------------------------------------------------------|-----------------------|
-| 318751 | Access to Private Photos of Apps in App section       |    IDOR               |
-| 120121 | Delete any group of any organization remotely         |   Critical IDOR       |
-| 642886 | Reauthentication for changing password bypass         | Authentication bypass |
+| Report  |                   Title                               |     Vulnerability     |
+|---------|-------------------------------------------------------|-----------------------|
+| 318751c | Access to Private Photos of Apps in App section       |    IDOR               |
+| 120121c | Delete any group of any organization remotely         |   Critical IDOR       |
+| 642886c | Reauthentication for changing password bypass         | Authentication bypass |
+| 3219944 | Scheduled data leak to other accounts By "projectID"  |    IDOR               |
+
 
 ## Contact
 
